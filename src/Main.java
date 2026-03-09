@@ -3,15 +3,8 @@ public class Main {
         System.out.println("Домашняя работа №4");
         //Задача №1
         System.out.println("Задача №1");
-        int age = 20;
+        int age = 17;
         if (age >= 18) {
-            System.out.println("Он совершеннолетний");
-        }
-        if (age < 18) {
-            System.out.println("Он не достиг совершеннолетия, нужно немного подождать");
-        }
-        int age1 = 17;
-        if (age1 >= 18) {
             System.out.println("Он совершеннолетний");
         } else {
             System.out.println("Он не достиг совершеннолетия, нужно немного подождать");
