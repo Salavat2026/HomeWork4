@@ -86,5 +86,6 @@ public class Main {
             max = three;
         }
         System.out.println("Наибольшее значение: " + max);
+
     }
 }
