@@ -3,8 +3,8 @@ public class Main {
         System.out.println("Домашняя работа №4");
         //Задача №1
         System.out.println("Задача №1");
-        int age = 17;
-        if (age >= 18) {
+        int age = 19;
+        if (age>=18) {
             System.out.println("Он совершеннолетний");
         } else {
             System.out.println("Он не достиг совершеннолетия, нужно немного подождать");
@@ -86,5 +86,6 @@ public class Main {
             max = three;
         }
         System.out.println("Наибольшее значение: " + max);
+   
     }
 }
